@@ -2,7 +2,9 @@
 
 # 🌼 Hi there, I'm Angelica ( Margoxt ) 🇵🇭✨
 
+<div align="left">
 ### *a front-end dev who plants a little wonder into every project* 🌸
+</div>
 
 </div>
 
@@ -15,11 +17,6 @@
 </div>
 
 <br clear="all" />
-
-<p align="center">🌷 • 🌻 • 🌼 • 🌷 • 🌻 • 🌼 • 🌷</p>
-
-## 💻 Tech Garden — My Tools, Languages, Stack, and all
-
 <p align="center">🌷 • 🌻 • 🌼 • 🌷 • 🌻 • 🌼 • 🌷</p>
 
 ## 💻 Tech Garden — My Tools, Languages, Stack, and all**
