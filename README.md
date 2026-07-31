@@ -94,15 +94,6 @@
   <a href="https://github.com/Margoxt">
     <img src="https://github-readme-stats.vercel.app/api?username=Margoxt&show_icons=true&theme=rose_pine&hide_border=true" alt="Angelica's GitHub Stats" height="170" />
   </a>
-  <a href="https://github.com/Margoxt">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Margoxt&layout=compact&theme=rose_pine&hide_border=true" alt="Top Languages" height="170" />
-  </a>
-
-  <br><br>
-
-  <a href="https://github.com/Margoxt">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Margoxt&theme=rose_pine&hide_border=true" alt="GitHub Streak" height="170" />
-  </a>
 
 </div>
 
@@ -119,29 +110,3 @@
 
 <p align="center">🌷 • 🌻 • 🌼 • 🌷 • 🌻 • 🌼 • 🌷</p>
 
-## 📊 GitHub Analytics
-
-### 📈 GitStats & Overview
-<div align="center">
-  <a href="https://github.com/Margoxt">
-    <img src="https://github-readme-stats.vercel.app/api?username=Margoxt&show_icons=true&theme=rose_pine&hide_border=true" alt="Angelica's GitHub Stats" height="165" />
-  </a>
-</div>
-
-<br>
-
-### 🗂️ Top Languages
-<div align="center">
-  <a href="https://github.com/Margoxt">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Margoxt&layout=compact&theme=rose_pine&hide_border=true" alt="Top Languages" height="165" />
-  </a>
-</div>
-
-<br>
-
-### 🔥 GitHub Streak
-<div align="center">
-  <a href="https://github.com/Margoxt">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Margoxt&theme=rose_pine&hide_border=true" alt="GitHub Streak" height="165" />
-  </a>
-</div>
