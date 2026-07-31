@@ -3,7 +3,8 @@
 # 🌼 Hi there, I'm Angelica ( Margoxt ) 🇵🇭✨
 
 <div align="left">
-### *a front-end dev who plants a little wonder into every project* 🌸
+### *A front-end dev who plants a little wonder into every project* 🌸###
+  <p>I am aspiring to be a Full Stack Developer to make my ideas fully come to life! ✨</p>
 </div>
 
 </div>
