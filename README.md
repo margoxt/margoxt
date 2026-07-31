@@ -1,4 +1,4 @@
-<div align="center">
+**<div align="center">
 
 # 🌼 Hi there, I'm Angelica ( Margoxt ) 🇵🇭✨
 
@@ -23,7 +23,7 @@
 
 <p align="center">🌷 • 🌻 • 🌼 • 🌷 • 🌻 • 🌼 • 🌷</p>
 
-## 💻 Tech Garden — My Tools, Languages, Stack, and all
+## 💻 Tech Garden — My Tools, Languages, Stack, and all**
 
 <div>
 
