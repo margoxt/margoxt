@@ -27,33 +27,21 @@
 
 ## 💻 Tech Garden — My Tools, Languages, Stack, and all
 
-<div>
-
-![JavaScript](https://img.shields.io/badge/-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![HTML5](https://img.shields.io/badge/-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Flutter](https://img.shields.io/badge/-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Godot](https://img.shields.io/badge/-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Firebase](https://img.shields.io/badge/-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,vite,html,css,flutter,dart,py,mysql,godot,bootstrap,firebase,tailwind" />
+  </a>
+</p>
 
 <br>
 
 **MERN Stack** 🌱
 
-![MongoDB](https://img.shields.io/badge/-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-</div>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
+  </a>
+</p>
 
 <p align="center">🌷 • 🌻 • 🌼 • 🌷 • 🌻 • 🌼 • 🌷</p>
 
@@ -63,7 +51,7 @@
 - 🌿 **Tools & Operations:** Version Control (Git/GitHub), Administrative Documentation, Visual & Media Editing
 - 🌿 **Soft Skills:** Creative Direction, Team Collaboration & Leadership, Adaptability, Persistence
 
-<p align="center">🌷 • 🌻 • 🌼 • 🌷 • 🌻 • 🌼 • 🌷</p>
+<p align="center">🌷 • 🌻 • 🌼 • 🌷 • 🌻 • ZB • 🌷</p>
 
 ## 💼 Experience Highlights
 
