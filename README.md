@@ -6,7 +6,6 @@
 
 </div>
 
-<!-- Pure HTML layout (No table = No grid lines!) -->
 <div align="center">
   <img src="./assets/flower-bunny.png" align="right" width="140" alt="a little bunny wrapped in a bouquet of flowers" />
   <p align="left">
@@ -17,7 +16,7 @@
 
 <br clear="all" />
 
-<p align="center">🌷 • 🌻 • ZB • 🌷 • 🌻 • 🌼 • 🌷</p>
+<p align="center">🌷 • 🌻 • 🌼 • 🌷 • 🌻 • 🌼 • 🌷</p>
 
 ## 💻 Tech Garden — My Tools, Languages, Stack, and all
 
