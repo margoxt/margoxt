@@ -29,29 +29,29 @@
 
 <div>
 
-![JavaScript](https://img.shields.io/badge/-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/-646CFF?style=flat-square&logo=vite&logoColor=white)
-![HTML5](https://img.shields.io/badge/-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Flutter](https://img.shields.io/badge/-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Godot](https://img.shields.io/badge/-478CBF?style=flat-square&logo=godotengine&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Firebase](https://img.shields.io/badge/-DD2C00?style=flat-square&logo=firebase&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Flutter](https://img.shields.io/badge/-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Godot](https://img.shields.io/badge/-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Firebase](https://img.shields.io/badge/-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 <br>
 
 **MERN Stack** 🌱
 
-![MongoDB](https://img.shields.io/badge/-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/-000000?style=flat-square&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 </div>
 
