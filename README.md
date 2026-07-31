@@ -92,7 +92,7 @@
 <div align="center">
 
   <a href="https://github.com/Margoxt">
-    <img src="https://github-readme-stats.vercel.app/api?username=Margoxt&show_icons=true&theme=rose_pine&hide_border=true" alt="Angelica's GitHub Stats" height="170" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Margoxt&show_icons=true&theme=rose_pine&hide_border=true" alt="Angelica's GitHub Stats" height="170" />
   </a>
 
 </div>
