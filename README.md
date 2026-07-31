@@ -4,18 +4,24 @@
 
 ### *a front-end dev who plants a little wonder into every project* 🌸
 
-**B.S. Computer Science Graduate & Front-End Developer**
-*Exploring the boundaries of code and creativity to build useful, unique systems for the community.* 🎨🖌️
-
 </div>
+
+<!-- Header Layout with Image to the Right -->
+<table border="0">
+  <tr>
+    <td width="70%" valign="middle">
+      <p align="left">
+        <b>B.S. Computer Science Graduate & Front-End Developer</b><br>
+        <i>Exploring the boundaries of code and creativity to build useful, unique systems for the community.</i> 🎨🖌️
+      </p>
+    </td>
+    <td width="30%" align="center" valign="middle">
+      <img src="./assets/flower-bunny.png" width="140" alt="a little bunny wrapped in a bouquet of flowers" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">🌷 • 🌻 • 🌼 • 🌷 • 🌻 • 🌼 • 🌷</p>
-
-<div align="center">
-<img src="./assets/flower-bunny.png" width="150" alt="a little bunny wrapped in a bouquet of flowers" />
-</div>
-
-<br>
 
 ## 💻 Tech Garden — My Tools, Languages, Stack, and all
 
