@@ -1,19 +1,6 @@
-
-
 <div align="center">
 
-<img src="./assets/banner-field.jpg" width="100%" style="border-radius: 16px; opacity: 0.88;" alt="A meadow of daisies under blue mountains" />
-
-</div>
-
-<div align="center">
-
-# 🌼 Hi there, I'm Angelica ( Margoxt ) 🇵🇭✨
-
-### *a front-end dev who plants a little wonder into every project* 🌸
-
-**B.S. Computer Science Graduate & Front-End Developer**
-*Exploring the boundaries of code and creativity to build useful, unique systems for the community.* 🎨🖌️
+<img src="./assets/readme-banner.jpg" width="100%" style="border-radius: 16px;" alt="Hi there, I'm Angelica (Margoxt) — B.S. Computer Science Graduate & Front-End Developer" />
 
 </div>
 
