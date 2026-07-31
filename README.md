@@ -1,25 +1,22 @@
-**<div align="center">
+<div align="center">
 
 # 🌼 Hi there, I'm Angelica ( Margoxt ) 🇵🇭✨
 
 ### *a front-end dev who plants a little wonder into every project* 🌸
 
-</div>
-
-<!-- Header Layout with Image to the Right -->
-<table border="0">
-  <tr>
-    <td width="70%" valign="middle">
-      <p align="left">
-        <b>B.S. Computer Science Graduate & Front-End Developer</b><br>
-        <i>Exploring the boundaries of code and creativity to build useful, unique systems for the community.</i> 🎨🖌️
-      </p>
+<table align="center" style="border: none; background: transparent;">
+  <tr style="border: none; background: transparent;">
+    <td style="border: none;" width="70%" valign="middle" align="left">
+      <b>B.S. Computer Science Graduate & Front-End Developer</b><br>
+      <i>Exploring the boundaries of code and creativity to build useful, unique systems for the community.</i> 🎨🖌️
     </td>
-    <td width="30%" align="center" valign="middle">
-      <img src="./assets/flower-bunny.png" width="140" alt="a little bunny wrapped in a bouquet of flowers" />
+    <td style="border: none;" width="30%" align="center" valign="middle">
+      <img src="./assets/flower-bunny.png" width="130" alt="a little bunny wrapped in a bouquet of flowers" />
     </td>
   </tr>
 </table>
+
+</div>
 
 <p align="center">🌷 • 🌻 • 🌼 • 🌷 • 🌻 • 🌼 • 🌷</p>
 
