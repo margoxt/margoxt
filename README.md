@@ -3,7 +3,7 @@
 # 🌼 Hi there, I'm Angelica ( Margoxt ) 🇵🇭✨
 
 <div align="left">
-  <b>A front-end dev who plants a little wonder into every project 🌸<b>
+  <b>A front-end dev who plants a little wonder into every project 🌸</b>
   <p>I am aspiring to be a Full Stack Developer to make my ideas fully come to life! ✨</p>
 </div>
 
@@ -12,7 +12,7 @@
 <div align="center">
   <img src="./assets/flower-bunny.png" align="right" width="140" alt="a little bunny wrapped in a bouquet of flowers" />
   <p align="left">
-    <b>B.S. Computer Science Graduate & Front-End Developer</b><br>
+    <b>B.S. Computer Science Student & Front-End / Web Developer in Freelancing</b><br>
     <i>Exploring the boundaries of code and creativity to build useful, unique systems for the community.</i> 🎨🖌️
   </p>
 </div>
