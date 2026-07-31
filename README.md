@@ -29,7 +29,8 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,vite,html,css,flutter,dart,py,mysql,godot,bootstrap,firebase,tailwind" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,vite,html,css,flutter,dart,py,godot,bootstrap,firebase,tailwind" />
+    ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
   </a>
 </p>
 
