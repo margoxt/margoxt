@@ -23,31 +23,35 @@
 
 <p align="center">🌷 • 🌻 • 🌼 • 🌷 • 🌻 • 🌼 • 🌷</p>
 
-## 💻 Tech Garden — My Tools, Languages, Stack, and all**
+<br>
+
+## 💻 Tech Garden — My Tools, Languages, Stack, and all
 
 <div>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+<br>
 
 **MERN Stack** 🌱
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
 </div>
 
@@ -81,6 +85,27 @@
 - 🎨 **Figma Design**
 - 🌐 **CCNA: Introduction to Networks**
 
+<p align="center">🌷 • 🌻 • 🌼 • 🌷 • 🌻 • 🌼 • 🌷</p>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+  <a href="https://github.com/Margoxt">
+    <img src="https://github-readme-stats.vercel.app/api?username=Margoxt&show_icons=true&theme=rose_pine&hide_border=true" alt="Angelica's GitHub Stats" height="170" />
+  </a>
+  <a href="https://github.com/Margoxt">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Margoxt&layout=compact&theme=rose_pine&hide_border=true" alt="Top Languages" height="170" />
+  </a>
+
+  <br><br>
+
+  <a href="https://github.com/Margoxt">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Margoxt&theme=rose_pine&hide_border=true" alt="GitHub Streak" height="170" />
+  </a>
+
+</div>
+
 <br>
 
 <div align="center">
@@ -88,6 +113,35 @@
 
 <br>
 
-<sub>Built with 🌷 by Margoxt</sub>
+<sub>Built with 🫶 by Margoxt🌷</sub>
 
+</div>
+
+<p align="center">🌷 • 🌻 • 🌼 • 🌷 • 🌻 • 🌼 • 🌷</p>
+
+## 📊 GitHub Analytics
+
+### 📈 GitStats & Overview
+<div align="center">
+  <a href="https://github.com/Margoxt">
+    <img src="https://github-readme-stats.vercel.app/api?username=Margoxt&show_icons=true&theme=rose_pine&hide_border=true" alt="Angelica's GitHub Stats" height="165" />
+  </a>
+</div>
+
+<br>
+
+### 🗂️ Top Languages
+<div align="center">
+  <a href="https://github.com/Margoxt">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Margoxt&layout=compact&theme=rose_pine&hide_border=true" alt="Top Languages" height="165" />
+  </a>
+</div>
+
+<br>
+
+### 🔥 GitHub Streak
+<div align="center">
+  <a href="https://github.com/Margoxt">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Margoxt&theme=rose_pine&hide_border=true" alt="GitHub Streak" height="165" />
+  </a>
 </div>
