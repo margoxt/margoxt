@@ -1,6 +1,11 @@
 <div align="center">
 
-<img src="./assets/readme-banner.jpg" width="100%" style="border-radius: 16px;" alt="Hi there, I'm Angelica (Margoxt) — B.S. Computer Science Graduate & Front-End Developer" />
+# 🌼 Hi there, I'm Angelica ( Margoxt ) 🇵🇭✨
+
+### *a front-end dev who plants a little wonder into every project* 🌸
+
+**B.S. Computer Science Graduate & Front-End Developer**
+*Exploring the boundaries of code and creativity to build useful, unique systems for the community.* 🎨🖌️
 
 </div>
 
@@ -14,7 +19,7 @@
 
 ## 💻 Tech Garden — My Stack
 
-<div align="center">
+<div>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
